@@ -1,0 +1,29 @@
+{
+  "name": "@rayhomie/reactcli",
+  "version": "0.1.0",
+  "main": "index.js",
+  "private": false,
+  "bin": {
+    "reactcli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "TypeScript",
+    "webpack"
+  ],
+  "description": "Create A React Project With webpack In TypeScript",
+  "author": "rayhomie <1572801584@qq.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/rayhomie/reactcli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayhomie/reactcli"
+  },
+  "dependencies": {
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2"
+  }
+}
